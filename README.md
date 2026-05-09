@@ -1,0 +1,2 @@
+# c-
+这是一个用powershall写的c盘清理脚本，可以直接用windows自带的powershall运行，有可视化操作选择界面，同时附带了一定功能说明
